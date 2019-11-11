@@ -1,0 +1,12 @@
+C:\Users\ferra\source\repos\sheetDND\sheetDND\bin\Debug\sheetDND.exe.config
+C:\Users\ferra\source\repos\sheetDND\sheetDND\bin\Debug\sheetDND.exe
+C:\Users\ferra\source\repos\sheetDND\sheetDND\bin\Debug\sheetDND.pdb
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.csprojAssemblyReference.cache
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.Properties.Resources.resources
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.csproj.GenerateResource.cache
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.csproj.CoreCompileInputs.cache
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.exe
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.pdb
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.MainMenu.resources
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.Dices.resources
+C:\Users\ferra\source\repos\sheetDND\sheetDND\obj\Debug\sheetDND.Sheet.resources
